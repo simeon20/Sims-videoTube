@@ -25,7 +25,7 @@ videoSearch(term) {
     this.setState({
       videos: videos,
       selectedVideo:videos[0]
-      });                                  //key and property are the same//
+      });                                 
     });
 }
 
