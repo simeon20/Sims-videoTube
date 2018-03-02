@@ -9,13 +9,13 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/simeon20/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> cd Sims-video-Tube-master 
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/Simeon20/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+https://github.com/simeon20/ReduxSimpleStarter then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
