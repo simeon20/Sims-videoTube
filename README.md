@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/simeon20/Sims-videoTube
-> cd Sims-video-Tube-master 
+> cd Sims-videoTube-master 
 > npm install
 > npm start
 ```
