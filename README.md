@@ -1,10 +1,10 @@
-# ReduxSimpleStarter
+Basically, this is the 2017 dollar-store knockoff of VideoTube — slapped together in mostly JavaScript, because apparently that’s all I knew back then.
 
-### Getting Started
+
 
 There are two methods for getting started with this repo.
 
-#### Familiar with Git?
+
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -14,7 +14,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
+
 https://github.com/simeon20/ReduxSimpleStarter then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
