@@ -1,6 +1,6 @@
 Basically, this is the 2017 dollar-store knockoff of VideoTube — slapped together in mostly JavaScript, because apparently that’s all I knew back then.
 
-
+I keep it around like an embarrassing high school yearbook photo… I just don’t have the heart to delete it.
 
 There are two methods for getting started with this repo.
 
